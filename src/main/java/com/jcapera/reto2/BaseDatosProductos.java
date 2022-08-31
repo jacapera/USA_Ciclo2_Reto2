@@ -53,7 +53,9 @@ public class BaseDatosProductos {
     }
 
     public void presentarInforme() {
-        System.out.println(precioMayor() + " " + precioMenor() + " " + String.format("%.1f", promedio()));
+        //System.out.println(precioMayor() + " " + precioMenor() + " " + String.format("%.1f", promedio()));
+        System.out.println(String.format("%.1f", inventarioTotal()));
+
     }
 
     public String precioMayor() {
