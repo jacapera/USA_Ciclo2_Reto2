@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Entrada: BORRAR 10 Jamon 15000 10      /  Salida:	864100.0
  * Entrada: ACTUALIZAR 7 Helado 65000 11  /  Salida:	1544600.0
  * Entrada: BORRAR 14 Maiz 45000 12       /  Salida:    ERROR
- * Entrada: AGREGAR 11 Maiz1 70000 1       /  Salida:   1084100.0
+ * Entrada: AGREGAR 11 Maiz 70000 1       /  Salida:   1084100.0
  * Entrada: ACTUALIZAR 10 Jamon 500 10    /  Salida:    869100.0
  * Entrada: BORRAR 3 Peras 2700 33        /  Salida:	925000.0
  * Entrada: BORRAR 15 Papa 1500 10        /  Salida:    ERROR
